@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+.productos{
+    font-family:'Roboto', sans-serif;
+}
+.card-body h5 {
+    font-weight: 300;
+    font-size: 20pt;
+    color: #212529;
+}
+.card-body p {
+    font-weight: 300;
+    font-size: 16pt;
+    color:#707070;
+}
+.lugar p{
+    font-weight: 300;
+    font-size: 13pt;
+    color:#707070;
+}
+
+
+.precio-normal {
+    font-weight:300;
+    font-size: 16pt;
+    color:#707070;
+}
+.precio-oferta {
+    font-weight:500;
+    font-size: 20pt;
+    color: #28A745;
+
+}
